@@ -49,13 +49,6 @@ Aplicación web completa con autenticación, front-end y API REST.
 🔗 https://github.com/Ruben-Alba-Gonzalez/Grupo-1-Viajes-Colaborativos
 
 
----
-
-## 📈 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
-
----
 
 ## 🌐 Contacto
 
